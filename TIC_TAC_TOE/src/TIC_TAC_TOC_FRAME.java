@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author aks
+ * @author sopna
  */
 public class TIC_TAC_TOC_FRAME extends javax.swing.JFrame {
 
